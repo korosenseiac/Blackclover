@@ -1,0 +1,17 @@
+{
+  "title": "<Black Clover>",
+  "description": "<Nothing..>",
+  "artist": "<Yuki Tabata>",
+  "author": "<Yuki Tabata>",
+  "cover": "<https://upload.wikimedia.org/wikipedia/en/6/69/Black_Clover%2C_volume_1.jpg>",
+  "chapters": {
+    "<296>": {
+      "title": "<Valkarie Yang Suci>",
+      "volume": "<>",
+      "groups": {
+        "<Alep Korosensei>": "/proxy/api/imgur/chapter/<LUeFtp3>/"
+      }
+      "last_updated": "1616368746"
+    },
+  }
+}
