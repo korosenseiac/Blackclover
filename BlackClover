@@ -3,15 +3,15 @@
   "description": "nothing",
   "artist": "Yuki Tabata",
   "author": "Yuki Tabata",
-  "cover": "https://static.wikia.nocookie.net/shadows-house-series/images/6/6a/Volume_01.jpg/revision/latest?cb=20210218000949",
+  "cover": "https://i.imgur.com/NELpA2R.jpeg",
   "chapters": {
-    "<296>": {
+    "296": {
       "title": "Valkarie Yang Suci",
-      "volume": "1",
+      "volume": "21",
       "groups": {
-        "Alep Korosensei": "/proxy/api/imgur/chapter/LUeFtp3/"
+        "alepkorosensei": "/proxy/api/imgur/chapter/LUeFtp3/"
       },
-      "last_updated": "1616368746"
+      "last_updated": "1617211024"
     }
   }
 }
